@@ -1,0 +1,95 @@
+[
+  {
+      "split": "train",
+      "image_id": 299207,
+      "question_id": "22MexNkBPpdZGX6sxbxVBH",
+      "question": "What is the man by the bags awaiting?",
+      "choices": [
+          "skateboarder",
+          "train",
+          "delivery",
+          "cab"
+      ],
+      "correct_choice_idx": 3,
+      "direct_answers": [
+          "ride",
+          "ride",
+          "bus",
+          "taxi",
+          "travelling",
+          "traffic",
+          "taxi",
+          "cab",
+          "cab",
+          "his ride"
+      ],
+      "difficult_direct_answer": false,
+      "rationales": [
+          "A train would not be on the street, he would not have luggage waiting for a delivery, and the skateboarder is there and not paying attention to him so a cab is the only possible answer.",
+          "He has bags as if he is going someone, and he is on a road waiting for vehicle that can only be moved on the road and is big enough to hold the bags.",
+          "He looks to be waiting for a paid ride to pick him up."
+      ]
+  },
+  {
+      "split": "train",
+      "image_id": 39446,
+      "question_id": "22ZAvqke8EhGDj8e4eyios",
+      "question": "Where does this man eat pizza?",
+      "choices": [
+          "office",
+          "cafe",
+          "motel",
+          "outside"
+      ],
+      "correct_choice_idx": 0,
+      "direct_answers": [
+          "work",
+          "office",
+          "work",
+          "work",
+          "at work",
+          "desk",
+          "at desk",
+          "office",
+          "work desk",
+          "office"
+      ],
+      "difficult_direct_answer": false,
+      "rationales": [
+          "The man is eating pizza at a work desk in an office setting.",
+          "The man is near a computer keyboard.",
+          "The man is sitting at an office desk at his job and eating his pizza."
+      ]
+  },
+  {
+      "split": "train",
+      "image_id": 312452,
+      "question_id": "22oou4R5ejh4Ay9UQG7yGT",
+      "question": "What is the occupation of the person driving?",
+      "choices": [
+          "waiter",
+          "farmer",
+          "cashier",
+          "musician"
+      ],
+      "correct_choice_idx": 1,
+      "direct_answers": [
+          "farmer",
+          "farmer",
+          "bus driver",
+          "farmer",
+          "shepherd",
+          "farmer",
+          "bus driver",
+          "farmer",
+          "farmer",
+          "farmer"
+      ],
+      "difficult_direct_answer": false,
+      "rationales": [
+          "The place is full of sheep that shows the person is a farmer.",
+          "Farmer is the obvious profession as the picture shows.",
+          "With the tractor he is in and the livestock shown it is easy to surmise his profession."
+      ]
+  }
+]

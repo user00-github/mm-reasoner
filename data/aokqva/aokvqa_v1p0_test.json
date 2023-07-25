@@ -1,0 +1,41 @@
+[
+    {
+        "split": "test",
+        "image_id": 487715,
+        "question_id": "22dfoxvWKwTS6myafdKHfc",
+        "question": "Who married a woman that has a similar with the sign next to the chocolate avec sign?",
+        "choices": [
+            "dom perignon",
+            "cesare borgia",
+            "mick jagger",
+            "ice-t"
+        ],
+        "difficult_direct_answer": false
+    },
+    {
+        "split": "test",
+        "image_id": 211663,
+        "question_id": "234yKjUiFq5MijJ4QXLFZm",
+        "question": "Why is he bent over?",
+        "choices": [
+            "slipping",
+            "controlling board",
+            "falling",
+            "tired"
+        ],
+        "difficult_direct_answer": false
+    },
+    {
+        "split": "test",
+        "image_id": 130190,
+        "question_id": "23A3Z2fPHC3urCjdYZ6rqP",
+        "question": "Whose first name is the same as the name on the skis?",
+        "choices": [
+            "jerry rice",
+            "norm macdonald",
+            "jim carrey",
+            "scott glenn"
+        ],
+        "difficult_direct_answer": false
+    }
+]

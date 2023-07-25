@@ -1,0 +1,95 @@
+[
+    {
+        "split": "val",
+        "image_id": 461751,
+        "question_id": "22jbM6gDxdaMaunuzgrsBB",
+        "question": "What is in the motorcyclist's mouth?",
+        "choices": [
+            "toothpick",
+            "food",
+            "popsicle stick",
+            "cigarette"
+        ],
+        "correct_choice_idx": 3,
+        "direct_answers": [
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette",
+            "cigarette"
+        ],
+        "difficult_direct_answer": false,
+        "rationales": [
+            "He's smoking while riding.",
+            "The motorcyclist has a lit cigarette in his mouth while he rides on the street.",
+            "The man is smoking."
+        ]
+    },
+    {
+        "split": "val",
+        "image_id": 377368,
+        "question_id": "2Aq5RiEn7eyfWjEbpuYT2o",
+        "question": "Which number birthday is probably being celebrated?",
+        "choices": [
+            "one",
+            "ten",
+            "nine",
+            "thirty"
+        ],
+        "correct_choice_idx": 3,
+        "direct_answers": [
+            "thirty",
+            "30th",
+            "thirty",
+            "thirty",
+            "thirty",
+            "30th",
+            "thirty",
+            "thirty",
+            "thirty",
+            "thirty"
+        ],
+        "difficult_direct_answer": false,
+        "rationales": [
+            "There is a birthday cake on the table with the number 30 written in icing.",
+            "The cake says 30.",
+            "The numerals three and zero are written on the cake, which indicates the person is 30 years of age as of the birthdate."
+        ]
+    },
+    {
+        "split": "val",
+        "image_id": 563603,
+        "question_id": "2Br4bJfKY7SQM9DECrqqeG",
+        "question": "What best describes the pool of water?",
+        "choices": [
+            "frozen",
+            "fresh",
+            "dirty",
+            "boiling"
+        ],
+        "correct_choice_idx": 2,
+        "direct_answers": [
+            "muddy",
+            "dirty",
+            "murky water",
+            "muddy",
+            "pond",
+            "pond",
+            "watering hole",
+            "pond",
+            "pond",
+            "dirty"
+        ],
+        "difficult_direct_answer": false,
+        "rationales": [
+            "The pool is dark brown.",
+            "It it brown and surrounded with mud.",
+            "The pool is dirty."
+        ]
+    }
+]
